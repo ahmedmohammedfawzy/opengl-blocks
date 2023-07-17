@@ -1,0 +1,6 @@
+-I
+lib/glfw/include
+-I
+lib/glad/include
+-I
+lib/cglm/include
