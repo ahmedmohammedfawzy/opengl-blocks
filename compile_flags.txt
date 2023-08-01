@@ -4,3 +4,5 @@ lib/glfw/include
 lib/glad/include
 -I
 lib/cglm/include
+-I
+lib/stb
